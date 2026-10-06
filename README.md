@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Axel 👋
 
-<!--
-**axeldrtdata/axeldrtdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst based in Lyon, France.** I turn raw data into clear decisions, with Python, SQL and data visualisation.
 
-Here are some ideas to get you started:
+I trained as a Data Analyst with OpenClassrooms (RNCP Level 6, Bachelor's equivalent). Before that, I lived in Australia, Sweden and the Netherlands, and I work fluently in French and English. I'm especially interested in helping retail and e-commerce businesses understand what really drives their performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Portfolio:** [axeldrtdata.github.io](https://axeldrtdata.github.io) · 💼 **LinkedIn:** [Axel Derobert](https://www.linkedin.com/in/axel-derobert-5717463b1/)
+
+## Featured projects
+
+| Project | What it shows | Links |
+| ------- | ------------- | ----- |
+| **Spotting counterfeit banknotes from six measurements** | Four machine-learning models compared, 99% accuracy, best model shipped as a reusable script | [Case study](https://axeldrtdata.github.io/works/counterfeit-banknotes/) · [Code](https://github.com/axeldrtdata/counterfeit-banknotes) |
+| **Where should a French poultry brand export first?** | 164 countries, 15 PESTEL indicators, PCA and clustering turned into a three-stage export roadmap | [Case study](https://axeldrtdata.github.io/works/poultry-export-markets/) · [Code](https://github.com/axeldrtdata/poultry-export-markets) |
+
+All case studies are on my [portfolio](https://axeldrtdata.github.io/works/).
+
+## Toolkit
+
+**Languages** · Python, SQL
+**Libraries** · pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
+**Tools** · Power BI, Excel, VS Code, Git
