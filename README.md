@@ -19,6 +19,7 @@ I trained as a Data Analyst with OpenClassrooms (RNCP Level 6, Bachelor's equiva
 | **Who still enrols in the Data path?** | dbt and Snowflake pipeline with SHA-256 pseudonymisation, INSEE enrichment and 47 data tests, then an analysis of four years of students | [Case study](https://axeldrtdata.github.io/works/student-demographics-dbt/) · [Code](https://github.com/axeldrtdata/student-demographics-dbt) |
 | **How did the French property market hold up in early 2020?** | Relational database of 34,000 property sales and twelve SQL queries, from joins to window functions, with a data-type audit | [Case study](https://axeldrtdata.github.io/works/french-property-market-sql/) · [Code](https://github.com/axeldrtdata/french-property-market-sql) |
 | **Does the world produce enough food to feed everyone?** | Public-health study for the FAO on four datasets, with a second look at units, joins and data coverage | [Case study](https://axeldrtdata.github.io/works/global-food-security/) · [Code](https://github.com/axeldrtdata/global-food-security) |
+| **What drives the price of a home insurance policy?** | SQLite database of 30,335 contracts and twelve SQL queries, with a check on what the joins were hiding | [Case study](https://axeldrtdata.github.io/works/home-insurance-sql/) · [Code](https://github.com/axeldrtdata/home-insurance-sql) |
 All case studies are on my [portfolio](https://axeldrtdata.github.io/works/).
 
 ## Toolkit
