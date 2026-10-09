@@ -4,7 +4,7 @@
 
 **Data Analyst based in Lyon, France.** I turn raw data into clear decisions, with Python, SQL and data visualisation.
 
-I trained as a Data Analyst with OpenClassrooms (RNCP Level 6, Bachelor's equivalent). Before that, I lived in Australia, Sweden and the Netherlands, and I work fluently in French and English. I'm especially interested in helping retail and e-commerce businesses understand what really drives their performance.
+I'm completing a Data Analyst degree with OpenClassrooms (RNCP Level 6, Bachelor's equivalent).. Before that, I lived in Australia, Sweden and the Netherlands, and I work fluently in French and English. I'm especially interested in helping retail and e-commerce businesses understand what really drives their performance.
 
 🌐 **Portfolio:** [axeldrtdata.github.io](https://axeldrtdata.github.io) · 💼 **LinkedIn:** [Axel Derobert](https://www.linkedin.com/in/axel-derobert-5717463b1/)
 
