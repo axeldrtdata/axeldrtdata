@@ -24,8 +24,8 @@ I trained as a Data Analyst with OpenClassrooms (RNCP Level 6, Bachelor's equiva
 
 All case studies are on my [portfolio](https://axeldrtdata.github.io/works/).
 
-## Toolkit
+   ## Toolkit
 
-**Languages** · Python, SQL, DAX
-**Libraries** · pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
-**Tools** · Power BI, Tableau, dbt, Snowflake, SQLite, Excel, VS Code, Git
+   - **Languages** · Python, SQL, DAX
+   - **Libraries** · pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
+   - **Tools** · Power BI, Tableau, dbt, Snowflake, SQLite, Excel, VS Code, Git
