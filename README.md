@@ -20,13 +20,13 @@ I'm completing a Data Analyst degree with OpenClassrooms (RNCP Level 6, Bachelor
 | **What really drives sales at an online bookshop?** | Two years of sales analysed: revenue trends, catalogue Pareto, Lorenz curve and five statistical tests on customer profiles | [Case study](https://axeldrtdata.github.io/works/online-bookshop-sales/) · [Code](https://github.com/axeldrtdata/online-bookshop-sales) |
 | **Was the wine shop really sitting on three years of stock?** | Stock and sales analysis for an online wine shop, then an audit of my own notebook with Claude and Gemini, rebuilt with 10 pandera validation rules | [Case study](https://axeldrtdata.github.io/works/bottleneck-stock-sales/) · [Code](https://github.com/axeldrtdata/bottleneck-stock-sales) |
 | **What do 34,000 property sales reveal about the French market?** | Relational database of 34,000 property sales and twelve SQL queries, from joins to window functions | [Case study](https://axeldrtdata.github.io/works/french-property-market-sql/) · [Code](https://github.com/axeldrtdata/french-property-market-sql) |
-| **Does the world produce enough food to feed everyone?** | Public-health study for the FAO on four datasets, with a second look at units, joins and data coverage | [Case study](https://axeldrtdata.github.io/works/global-food-security/) · [Code](https://github.com/axeldrtdata/global-food-security) |
+| **Does the world produce enough food to feed everyone?** | Public-health study for the FAO on four datasets: undernourishment, how many people the food could feed, where it goes and where aid goes | [Case study](https://axeldrtdata.github.io/works/global-food-security/) · [Code](https://github.com/axeldrtdata/global-food-security) |
 | **What drives the price of a home insurance policy?** | SQLite database of 30,335 contracts and twelve SQL queries, with a check on what the joins were hiding | [Case study](https://axeldrtdata.github.io/works/home-insurance-sql/) · [Code](https://github.com/axeldrtdata/home-insurance-sql) |
 
 All case studies are on my [portfolio](https://axeldrtdata.github.io/works/).
 
-   ## Toolkit
+## Toolkit
 
-   - **Languages** · Python, SQL, DAX
-   - **Libraries** · pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
-   - **Tools** · Power BI, Tableau, dbt, Snowflake, SQLite, Excel, VS Code, Git
+- **Languages** · Python, SQL, DAX
+- **Libraries** · pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
+- **Tools** · Power BI, Tableau, dbt, Snowflake, SQLite, Excel, VS Code, Git
